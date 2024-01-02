@@ -15,4 +15,4 @@
 
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://nikunz.vercel.app/)**
+- 🙋‍♂️ You can find all about me on **[My Website](https://nikunz.vercel.app/)**
