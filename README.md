@@ -5,4 +5,6 @@
 </p>
 
 <div align="center">
-  <img src =""
+  <img src ="./IT Consultant Business Linkedin Banner.png" />
+
+</div>
