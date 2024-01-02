@@ -16,3 +16,5 @@
 <img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ You can find all about me on **[My Website](https://nikunz.vercel.app/)**
+
+- 🔭 Currently I'm working on building `cloud-based serverless architectures `
