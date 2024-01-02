@@ -8,3 +8,9 @@
   <img src ="./IT Consultant Business Linkedin Banner.png" />
 
 </div>
+
+  <br/>
+
+## 👨🏻‍💻 About Me:
+
+<img src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
