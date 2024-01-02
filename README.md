@@ -23,4 +23,8 @@
 
 - 👯 Looking for collaboration in `Cloud migration and solution projects`
 
+- 🤔 Need help with `optimizing my website with CSS`
+
+- 💬 Ask me about anything, Except Physics :sweat_smile:
+
 - 
