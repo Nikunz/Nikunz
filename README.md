@@ -3,4 +3,3 @@
 <p align="center">
   <img src="hello-wave.gif" alt="animated" />
 </p>
-![](https://github.com/Nikunz/Nikunz/blob/main/hello-wave.gif)
