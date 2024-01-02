@@ -3,3 +3,7 @@
 <p align="center">
   <img src="hello-wave.gif" alt="animated" />
 </p>
+
+```diff
+@@ text in purple (and bold)@@
+```
