@@ -27,4 +27,6 @@
 
 - 💬 Ask me about anything, Except Physics :sweat_smile:
 
-- 
+- 👨‍💻 Dev tip: Developing is more about managing than developing :tada:
+
+- An avid Pokemon gamer so, if you are a Pokemon fanatic like me hit me up in my union circle 🐁:
